@@ -1,4 +1,4 @@
-module protos
+module github.com/Iliuxa/protos
 
 go 1.23.1
 
